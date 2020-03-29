@@ -1,3 +1,5 @@
+# **OFFICIAL REPO HAS BEEN MOVED TO https://github.com/OWASP/IoTGoat**
+
 <p align="center"><img src="/images/vertical-blue-logo.png" alt="IoTGoat" width="250" height="350" /></p>
 
 # Description
